@@ -1,0 +1,12 @@
+{
+    "mysql": {
+        "db": "laboratorio",
+        "user": "root",
+        "password": "admin",
+        "host": "127.0.0.1"
+    },
+    "conexao":{
+        "port": 3000
+    }
+    
+}
